@@ -1,0 +1,108 @@
+body{
+    background-image: url(../img/trivagoo.png);
+    background-size: 72%;
+    background-position: left;
+}
+#pag{
+    width: 65%;
+    margin: 10% auto;
+    height: auto;
+    padding: 5%;
+}
+#orcamento{
+    width: 90%;
+    height: auto;
+    padding: 5%;
+    margin: auto;    
+}
+
+#orcamento input, #orcamento select{
+    width: 100%;
+    padding: 0.5%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+    font-size: 110%;
+    color: black;
+    border-radius:10px;
+    color:black;
+}
+
+#orcamento input:focus, #orcamento select:focus{
+    outline: none;
+    color: antiquewhite;
+}
+
+label{
+    font-size: 0%;
+    margin: 1% 0%;
+    color:black;
+}
+
+fieldset{
+    width: 70%;
+    margin: 10px auto;
+    background-color: darkorange;
+    border:0.5px antiquewhite;
+    padding: 10%;
+    border-radius: 30%;
+    color: black;
+}
+
+legend{
+    font-family: 'Great Vibes';
+    font-size:xx-large;
+    background-color: royalblue;
+    color: black;
+    padding: 3%;
+    width: 33%;
+    border-radius: 500px;
+}
+
+.clear{
+    clear: both;
+}
+
+#orcamento input[type=radio]{
+    width: 20px;
+}
+
+#msg{
+    color: black;
+    font-weight: bold;
+    display: none;
+}
+#cnpj{
+    display: none;
+}
+
+#cartao{
+    display: none;
+}
+.total{
+    color:black;
+}
+.dados{
+    color: black;
+}
+.oq{
+    color:black;
+    font-family: 'Great Vibes';
+    font-size:xx-large;
+}
+#fim{
+    width: 90%;
+    margin:auto;
+    background-color: ;
+}
+#font{
+    font-family: 'Great Vibes';
+    font-size:xx-large;
+}
+#fin{
+    margin:auto;
+}
+
+
+
+
+
